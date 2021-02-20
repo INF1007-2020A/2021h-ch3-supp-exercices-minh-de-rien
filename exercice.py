@@ -48,3 +48,4 @@ if __name__ == "__main__":
 	print(orthogonal((1, 1), (-1, 1)))
 	print(average([1, 4, -2, 10]))
 	print(bills(137))
+	
